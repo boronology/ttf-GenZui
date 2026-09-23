@@ -1,4 +1,4 @@
-# Maintainer: boronology <boronology@gmail.com>
+# Maintainer: boronology <boronology ☆ gmail.com>
 
 pkgbase=ttf-genzui
 pkgname=(
@@ -20,7 +20,7 @@ source=(
 sha256sums=(
     '9f1f84e8c9049350005ebfb710504c34bdea5db2a3ddd3552f678cee698168ac'
     'b104e98d7adb448ca6b834b0e7e7ba59093c17dba2d90dc4cf422fbe3927cd4c'
-    'SKIP'
+    '8b2859a1f77f1ccc674ad46c82a0175b19fe5fcee8db0350e03b7c03a2b3f9a9'
 )
 license=('OFL-1.1')
 arch=('any')

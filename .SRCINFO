@@ -1,0 +1,17 @@
+pkgbase = ttf-genzui
+	pkgdesc = Japanese type family with hentaigana, historical kana and Unicode 18.0 additions.
+	pkgver = 0.113
+	pkgrel = 1
+	url = https://genzui.mkpo.li/
+	arch = any
+	license = OFL-1.1
+	source = https://genzui.mkpo.li/downloads/GenZuiSans-Regular.ttf
+	source = https://genzui.mkpo.li/downloads/GenZuiSerif-Regular.ttf
+	source = https://genzui.mkpo.li/downloads/OFL.txt
+	sha256sums = 9f1f84e8c9049350005ebfb710504c34bdea5db2a3ddd3552f678cee698168ac
+	sha256sums = b104e98d7adb448ca6b834b0e7e7ba59093c17dba2d90dc4cf422fbe3927cd4c
+	sha256sums = 8b2859a1f77f1ccc674ad46c82a0175b19fe5fcee8db0350e03b7c03a2b3f9a9
+
+pkgname = ttf-genzui-sans
+
+pkgname = ttf-genzui-serif
